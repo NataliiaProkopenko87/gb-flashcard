@@ -1,0 +1,22 @@
+export const gbFacts = [
+  { id: 1, q: "Which mountain is the highest peak in Great Britain?", a: "Ben Nevis (1,345 meters)" },
+  { id: 2, q: "What is the longest river in Great Britain?", a: "The River Severn" },
+  { id: 3, q: "In which year was the Magna Carta sealed?", a: "1215" },
+  { id: 4, q: "Which ancient monument in Wiltshire dates back to the Stone Age?", a: "Stonehenge" },
+  { id: 5, q: "What percentage of the population in Wales speaks Welsh?", a: "Approximately 20%" },
+  { id: 6, q: "How often do British accents noticeably change according to research?", a: "Every 25 miles (45 km)" },
+  { id: 7, q: "What is the national animal of Great Britain?", a: "The Lion" },
+  { id: 8, q: "Which historical event occurred in 1066?", a: "The Battle of Hastings" },
+  { id: 9, q: "How many islands are part of the UK archipelago?", a: "Over 6,000 islands" },
+  { id: 10, q: "What was the name of the world's first postage stamp released in 1840?", a: "The Penny Black" },
+  { id: 11, q: "What is considered the national bird of Great Britain?", a: "The Robin" },
+  { id: 12, q: "Approximately how many cups of tea do Brits drink every day?", a: "100 million cups" },
+  { id: 13, q: "Which lake contains the largest volume of fresh water in Great Britain?", a: "Loch Ness" },
+  { id: 14, q: "Name three native languages of the UK besides English.", a: "Welsh, Gaelic, Scots, or Cornish" },
+  { id: 15, q: "What is the largest country within the United Kingdom?", a: "England" },
+  { id: 16, q: "How far is the furthest point in the UK from the sea?", a: "No more than 125 km (77 miles)" },
+  { id: 17, q: "During which era were the lightbulb and telephone invented?", a: "The Victorian Era (1837-1901)" },
+  { id: 18, q: "Which city serves as the capital of both England and the UK?", a: "London" },
+  { id: 19, q: "What was the main language spoken by Iron Age Celts in Britain?", a: "A language from the Celtic family" },
+  { id: 20, q: "What is the national dish of England?", a: "Fish and chips" }
+];
